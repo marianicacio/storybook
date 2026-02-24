@@ -3,7 +3,7 @@ import { fn } from "storybook/test";
 import IconButton from "./index";
 
 export default {
-    title: "Component/IconButton",
+    title: "Components/IconButton",
     component: IconButton,
     argType: {
         source: {control: "text"},
